@@ -1,0 +1,12 @@
+[user]
+        name = Nick Verlinde
+        email = nick.verlinde@gmail.com
+[alias]
+        co = checkout        	    
+[color]
+        diff = auto
+        status = auto
+        branch = auto
+        ui = true
+[core]
+	editor = vim
